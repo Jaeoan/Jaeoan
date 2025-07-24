@@ -45,7 +45,7 @@
 ## 📫 Contact Me
 
 - 📮 Email: pjt0616@naver.com
-- 📝 Blog: [https://your-blog-url.com](https://your-blog-url.com)
+- 📝 Blog: [https://jae-oan.tistory.com/](https://jae-oan.tistory.com/)
 - 🔗 Notion 
 
 ---
