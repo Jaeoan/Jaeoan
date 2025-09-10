@@ -49,7 +49,10 @@
 - 🔗 Notion 
 
 ---
+Experience
 
+시즌톤 [2025] GoEuro
+https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_47_FE
 
 
 <p align="center">
