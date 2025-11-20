@@ -25,7 +25,10 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
@@ -36,9 +39,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=tokyonight" height="180px"/>
 </p>
+
+---
+
+## 🚀 Experience
+
+**[2025] GoEuro (구름톤 University 시즌톤)**
+- [📂 GitHub Repository](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_47_FE)
+
+**[2025] 교내 웹 프로젝트**
+- [📂 GitHub Repository](https://github.com/choihyungyu0/web-project.git)
 
 ---
 
@@ -48,13 +60,7 @@
 - 📝 Blog: [https://jae-oan.tistory.com/](https://jae-oan.tistory.com/)
 - 🔗 Notion 
 
----
-Experience
-
-시즌톤 [2025] GoEuro
-https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_47_FE
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
