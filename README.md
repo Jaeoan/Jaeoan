@@ -34,18 +34,19 @@
 
 ---
 
-## 📊 GitHub Stats (등급 및 기여도 강조)
+## 📊 GitHub Stats 
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180px"/>
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
 
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+    </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.demolab.com/?user=Jaeoan&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
-
 ---
 
 ## 🚀 Experience
