@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 - 🎓 충북대학교 정보통신공학부 재학 2022~
 - 💻 충북대학교 구름톤 프론트엔드 2025~
@@ -39,15 +39,11 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180px"/>
     
-
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
     </p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=Jaeoan&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
----
+
 
 ## 🚀 Experience
 
