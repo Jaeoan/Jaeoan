@@ -1,4 +1,4 @@
-<h1 align="center">👋 My photofolio</h1>
+<h1 align="center">My photofolio</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Dev-React%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" />
