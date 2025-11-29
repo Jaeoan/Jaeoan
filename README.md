@@ -36,12 +36,16 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&v=1" height="150px" alt="Jaeoan's Github Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&v=1" height="150px" alt="Top Langs"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaeoan&theme=tokyonight&hide_border=true&background=00000000" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaeoan&theme=tokyonight&hide_border=true&background=00000000&v=1" height="150px" alt="Streak Stats"/>
 </p>
 
 <br/>
