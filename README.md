@@ -1,10 +1,12 @@
-<h1 align="center">My Portfolio</h1>
+# 🍔 My Portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Dev-React%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%20CE-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently_Learning-React%2C%20C%2C%20AWS-yellowgreen?style=flat-square" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend%20Dev-React%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%20CE-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Currently_Learning-React%2C%20C%2C%20AWS-yellowgreen?style=flat-square" />
+
+</div>
 
 <br/>
 
@@ -18,33 +20,34 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+
+</div>
 
 <br/>
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![Jaeoan's Stats](https://github-readme-stats.vercel.app/api?username=jaeoan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeoan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jaeoan&theme=radical&hide_border=true&background=0d1117)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaeoan&theme=radical&hide_border=true&background=0d1117)
 
 </div>
 
@@ -73,6 +76,8 @@
 
 <br/>
 
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</div>
+
+
