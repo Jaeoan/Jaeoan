@@ -43,11 +43,11 @@
 
 <div align="center">
 
-![Jaeoan's Stats](https://github-readme-stats.vercel.app/api?username=jaeoan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![Jaeoan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&v=final_fix)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeoan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&v=final_fix)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaeoan&theme=radical&hide_border=true&background=0d1117)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jaeoan&theme=radical&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&v=final_fix)
 
 </div>
 
