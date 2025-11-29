@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Dev-React%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%20CE-orange?style=flat-square" />
+
   <img src="https://img.shields.io/badge/Currently_Learning-React%2C%20C%2C%20AWS-yellowgreen?style=flat-square" />
 </p>
 
@@ -33,7 +33,7 @@
 </p>## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&t=1" height="150px" alt="Jaeoan's Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaeoan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&t=1" height="150px" alt="Jaeoan's Github Stats"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&t=1" height="150px" alt="Top Langs"/>
 </p>
