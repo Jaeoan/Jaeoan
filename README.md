@@ -46,6 +46,7 @@
 
 
 ## 🚀 Experience
+Frontend
 
 [2025] GoEuro [구름톤 University 시즌톤]
 - [📂 GitHub Repository](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_47_FE)
@@ -53,7 +54,8 @@
 [2025] 노하우 [교내 프로젝트]
 - [📂 GitHub Repository](https://github.com/choihyungyu0/web-project.git)
 
----
+[2025] GapZero [호서대학교 중심사업단] 최우수상 (2위)
+-[📂 GitHub Repository]([https://github.com/choihyungyu0/web-project.git](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE/tree/main))
 
 ## 📫 Contact Me
 
