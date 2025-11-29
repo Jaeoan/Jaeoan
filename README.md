@@ -30,25 +30,17 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
+</p>## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&v=1" height="150px" alt="Jaeoan's Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&t=1" height="150px" alt="Jaeoan's Github Stats"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&v=1" height="150px" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&t=1" height="150px" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaeoan&theme=tokyonight&hide_border=true&background=00000000&v=1" height="150px" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaeoan&theme=radical&hide_border=true&background=0d1117&t=1" height="150px" alt="Streak Stats"/>
 </p>
-
-<br/>
 
 ## 🚀 Experience
 
