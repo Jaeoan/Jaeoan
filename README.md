@@ -1,4 +1,4 @@
-# 🍔 My Portfolio
+ My Portfolio
 
 <div align="center">
 
