@@ -61,15 +61,14 @@
 ## 🗂️ Projects
 ### Frontend & Backend
 
-**[진행중] CCC Web**
+**CCC Web**
 - 충북대학교 CCC 동아리 공식 웹사이트. 회원 관리, 갤러리, 로그인/회원가입, PWA 지원
-- **Frontend** React · Vite · Styled-components · Vercel
+- **Frontend** React · Vite · Tailwind-css · Vercel
 - **Backend** Spring Boot · Railway
 - [🌐 사이트](https://cbnuccc.co.kr)
 
 **[진행중] 공공데이터 활용 앱** 🚧
 - 공공데이터 기반 웹 앱
-- **Frontend** React · Vite · Tailwind CSS
 - **Backend** Spring Boot · Railway
 
 <br/>
