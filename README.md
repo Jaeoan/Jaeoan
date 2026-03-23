@@ -1,11 +1,9 @@
 # My Portfolio
- 
+
 <div align="center">
-
-<img src="https://img.shields.io/badge/Frontend%20Dev-React%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Frontend%20Dev-React%20%7C%20TypeScript%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%20CE-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Currently_Learning-React%2C%20C%2C%20AWS-yellowgreen?style=flat-square" />
-
+<img src="https://img.shields.io/badge/Currently_Learning-React%2C%20TypeScript%2C%20AWS-yellowgreen?style=flat-square" />
 </div>
 
 <br/>
@@ -15,6 +13,7 @@
 - 🎓 **충북대학교 정보통신공학부** 재학 (2022~)
 - 💻 **충북대학교 구름톤 유니브** 프론트엔드 (2025~)
 - 🦁 **충북대학교 멋쟁이사자** 프론트엔드 운영진 (2026~)
+
 <br/>
 
 ## 🛠️ Tech Stack
@@ -24,11 +23,15 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+
 <br/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
@@ -41,15 +44,17 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Jaeoan's Stats](https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&v=20250301_FINAL)
+![Jaeoan's Stats](https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&v=20250301_FINAL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaeoan&theme=radical&hide_border=true&background=0d1117&v=20250301_FINAL)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaeoan&theme=radical&hide_border=true&background=0d1117)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jaeoan&theme=radical&no-frame=true&column=7&margin-w=4)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaeoan&theme=react-dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -70,16 +75,13 @@
 
 <br/>
 
-## 📫 Contact Me
-
-- 📮 Email: pjt0616@naver.com
-- 📝 Blog: [https://jae-oan.tistory.com/](https://jae-oan.tistory.com/)
-- 🔗 Notion
-
-<br/>
+## 🗂️ Projects
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
 
-
+| 프로젝트 | 설명 | 기술 스택 | 링크 |
+|:---:|:---|:---:|:---:|
+| **CCC Web** | 충북대학교 CCC 동아리 공식 웹사이트. 회원 관리, 갤러리, 로그인/회원가입, PWA 지원 | React · Vite · Styled-components · Vercel | [🌐 사이트](https://cbnuccc.co.kr) |
+| **GapZero** | 호서대 해커톤 최우수상 수상작 | React · JavaScript | [📂 GitHub](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE/tree/main) |
+| **GoEuro** | 구름톤 유니브 시즌톤 팀 프로젝트 | React · JavaScript | [📂 GitHub](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_47_FE) |
+| **노하우** | 교내 팀 프로젝트 | HTML · CSS · JavaScript | [📂 GitHub](https://g
