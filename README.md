@@ -41,7 +41,7 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaeoan&theme=radical&hide_border=true&background=0d1117&v=20250301_FINAL)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Jaeoan&theme=radical&no-frame=true&column=7&margin-w=4)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaeoan&theme=react-dark&hide_border=true&bg_color=0d1117)
-![Jaeoan's github activity](https://ghchart.rshah.org/Jaeoan)
+![Jaeoan's github activity](https://github-readme-activity-graph.vercel.app/graph?username=Jaeoan&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6e96&line=ff6e96&point=ffffff)
 
 </div>
 <br/>
