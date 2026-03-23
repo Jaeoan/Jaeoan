@@ -56,6 +56,8 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaeoan&theme=react-dark&hide_border=true&bg_color=0d1117)
 
+![Jaeoan's github activity](https://ghchart.rshah.org/Jaeoan)
+
 </div>
 
 <br/>
@@ -79,9 +81,23 @@
 
 <div align="center">
 
-| 프로젝트 | 설명 | 기술 스택 | 링크 |
-|:---:|:---|:---:|:---:|
-| **CCC Web** | 충북대학교 CCC 동아리 공식 웹사이트. 회원 관리, 갤러리, 로그인/회원가입, PWA 지원 | React · Vite · Styled-components · Vercel | [🌐 사이트](https://cbnuccc.co.kr) |
-| **GapZero** | 호서대 해커톤 최우수상 수상작 | React · JavaScript | [📂 GitHub](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE/tree/main) |
-| **GoEuro** | 구름톤 유니브 시즌톤 팀 프로젝트 | React · JavaScript | [📂 GitHub](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_47_FE) |
-| **노하우** | 교내 팀 프로젝트 | HTML · CSS · JavaScript | [📂 GitHub](https://g
+| 프로젝트 | 설명 | Frontend | Backend | 링크 |
+|:---:|:---|:---:|:---:|:---:|
+| **CCC Web** | 충북대학교 CCC 동아리 공식 웹사이트. 회원 관리, 갤러리, 로그인/회원가입, PWA 지원 | React · Vite · Styled-components · Vercel | Spring Boot · Railway | [🌐 사이트](https://cbnuccc.co.kr) |
+| **공공데이터 활용 앱** | 공공데이터 기반 웹 앱 🚧 개발 중 | React · Vite · Tailwind CSS | Spring Boot · Railway | - |
+
+</div>
+
+<br/>
+
+## 📫 Contact Me
+
+- 📮 Email: pjt0616@naver.com
+- 📝 Blog: [https://jae-oan.tistory.com/](https://jae-oan.tistory.com/)
+- 🔗 Notion
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
