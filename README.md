@@ -1,85 +1,57 @@
-# My Portfolio
+````markdown
+# 박준태
 
-<div align="center">
-<img src="https://img.shields.io/badge/Frontend%20Dev-React%20%7C%20TypeScript%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Student-%EC%B6%A9%EB%B6%81%EB%8C%80%20CE-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Currently_Learning-React%2C%20TypeScript%2C%20AWS-yellowgreen?style=flat-square" />
-</div>
-<br/>
 
-## 🧑‍💻 About Me
-- 🎓 **충북대학교 정보통신공학부** 재학 (2022~)
-- 💻 **충북대학교 구름톤 유니브** 프론트엔드 (2025~)
-- 🦁 **충북대학교 멋쟁이사자** 프론트엔드 (2026~)
+충북대학교 정보통신공학부 · 멋쟁이사자처럼 충북대 프론트엔드 운영진
 
-<br/>
+[이메일](mailto:pjt0616@naver.com) · [블로그](https://jae-oan.tistory.com/) · [Notion](#)
 
-## 🛠️ Tech Stack
-### 💻 Languages & Tools
-<div align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</div>
-<br/>
+---
 
-## 📊 GitHub Stats
-<div align="center">
+## Highlights
 
-![Jaeoan's Stats](https://github-readme-stats.vercel.app/api?username=Jaeoan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&v=20250301_FINAL)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeoan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8&v=20250301_FINAL)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaeoan&theme=radical&hide_border=true&background=0d1117&v=20250301_FINAL)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Jaeoan&theme=radical&no-frame=true&column=7&margin-w=4)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaeoan&theme=react-dark&hide_border=true&bg_color=0d1117)
-![Jaeoan's Contributions](https://github-contributions-api.jogruber.de/v4/Jaeoan?year=last&theme=dark)
-</div>
-<br/>
 
-## 🚀 Experience
-### Frontend
-**[2025] GapZero [호서대학교 중심사업단]** 🏆 `최우수상 (2위)`
-- [📂 GitHub Repository](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE/tree/main)
 
-**[2025] GoEuro [구름톤 University 시즌톤]**
-- [📂 GitHub Repository](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_47_FE)
+## Awards
 
-**[2025] 노하우 [교내 프로젝트]**
-- [📂 GitHub Repository](https://github.com/choihyungyu0/web-project.git)
+### 2026
 
-<br/>
+| 성과 | 대회 | 프로젝트 |
+|---|---|---|
+| 🥉 **3위** 상금 50만원 | **공공데이터 활용 경진대회**<br>주최 [주최기관] | **아이봄** — 어린이 통학로 위험도 등급화<br>*기획 · 백엔드* |
 
-## 🗂️ Projects
-### Frontend & Backend
+### 2025
 
-**CCC Web**
-- 충북대학교 CCC 동아리 공식 웹사이트. 회원 관리, 갤러리, 로그인/회원가입, PWA 지원
-- **Frontend** React · Vite · Tailwind-css · Vercel
-- **Backend** Spring Boot · Railway
-- [🌐 사이트](https://cbnuccc.co.kr)
+| 성과 | 대회 | 프로젝트 |
+|---|---|---|
+| 🏆 **최우수상** | **호서대학교 AI SW 해커톤**<br>주최 호서대학교 중심사업단 | **GapZero**<br>*프론트엔드* |
 
-**[진행중] 공공데이터 활용 앱** 🚧
-- 공공데이터 기반 웹 앱
-- **Backend** Spring Boot · Railway
+---
 
-<br/>
+## Featured Projects
 
-## 📫 Contact Me
-- 📮 Email: pjt0616@naver.com
-- 📝 Blog: [https://jae-oan.tistory.com/](https://jae-oan.tistory.com/)
-- 🔗 Notion
+| 프로젝트 | 무엇을 했나 | 결과 |
+|---|---|---|
+| **아이봄** | 교통사고 데이터를 250m 격자로 집계해 통학로를 1~5급으로 등급화하고, 판정 근거까지 보여주는 지도 서비스 | 3위 · 상금 50만원 |
+| **CCC Web** | 100명 이상 규모 동아리 공식 웹사이트 프론트엔드 구현 | [운영 중](https://cbnuccc.co.kr/) |
+| **GapZero** | 해커톤 프론트엔드 전담 | 최우수상 |
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+## Tech Stack
+
+Java, Spring Boot, JPA, PostgreSQL, JavaScript, React, Vite, Tailwind CSS
+
+---
+
+## About
+
+충북대학교 정보통신공학부 재학 (2022~)
+[BNLAB](https://app.rndcircle.io/lab/4462764e-5ca3-43a0-9158-37be6b4ef202) 학부연구생 (지도교수 최성곤)
+멋쟁이사자처럼 충북대 프론트엔드 운영진 (2026~) · 구름톤 유니브 프론트엔드 운영진 (2025~)
+진행 중 해커톤 준비
+````
+
+---
+
+**채울 곳**: 이름(추정), 주최기관, 아이봄 GitHub 링크, Notion 링크, 랩실 기간
