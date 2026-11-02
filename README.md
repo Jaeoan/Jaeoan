@@ -1,6 +1,4 @@
-그 스타일(상단 뱃지 · Awards 표 · 기술 뱃지 · Stats · 한 줄 프로젝트 목록)로 맞췄습니다. Stats는 `Jaeoan` 계정 기준입니다.
 
-````markdown
 # My Portfolio
 
 ![](https://img.shields.io/badge/Backend_Developer-Spring%20Boot%20%C2%B7%20PostgreSQL-6DB33F?style=flat-square)
@@ -12,12 +10,12 @@
 
 - 🎓 **충북대학교 정보통신공학부** 재학 `(2022~)`
 - 🔬 **[BNLAB](https://app.rndcircle.io/lab/4462764e-5ca3-43a0-9158-37be6b4ef202)** 학부연구생 `(기간)`
-- 💻 **충북대학교 구름톤 유니브** 프론트엔드 운영진 `(2025~)`
+- 💻 **충북대학교 구름톤 유니브** 프론트엔드  `(2025~)`
 - 🦁 **충북대학교 멋쟁이사자처럼** 프론트엔드 운영진 `(2026~)`
 
 ## 🏅 Awards
 
-공공데이터 · AI 공모전과 해커톤에서 기획부터 개발까지 맡아 수상했습니다.
+공공데이터 · AI 공모전과 해커톤에서 기획,풀스택,데이터분석 맡았습니다.
 
 ### 2026
 
@@ -92,8 +90,3 @@
 - 🔗 Notion
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-````
-
-**채울 곳**: BNLAB 기간, 대회 정식명·주최기관, 아이봄 레포 링크(2곳), Notion 링크
-
-기술 뱃지는 아이봄·CCC 기준으로 넣었으니 안 쓴 건(Python, XGBoost 등) 지우시면 됩니다.
