@@ -1,4 +1,3 @@
-
 # My Portfolio
 
 ![](https://img.shields.io/badge/Backend_Developer-Spring%20Boot%20%C2%B7%20PostgreSQL-6DB33F?style=flat-square)
@@ -10,12 +9,12 @@
 
 - 🎓 **충북대학교 정보통신공학부** 재학 `(2022~)`
 - 🔬 **[BNLAB](https://app.rndcircle.io/lab/4462764e-5ca3-43a0-9158-37be6b4ef202)** 학부연구생 `(기간)`
-- 💻 **충북대학교 구름톤 유니브** 프론트엔드  `(2025~)`
+- 💻 **충북대학교 구름톤 유니브** 프론트엔드 운영진 `(2025~)`
 - 🦁 **충북대학교 멋쟁이사자처럼** 프론트엔드 운영진 `(2026~)`
 
 ## 🏅 Awards
 
-공공데이터 · AI 공모전과 해커톤에서 기획,풀스택,데이터분석 맡았습니다.
+공공데이터 · AI 공모전과 해커톤에서 기획부터 개발까지 맡아 수상했습니다.
 
 ### 2026
 
@@ -74,14 +73,16 @@
 
 ## 🚀 Experience
 
-**[2026] 아이봄 [어린이 통학로 위험도 등급화 지도] 🥉 공공데이터 활용 경진대회 3위**
-- [📂 GitHub Repository](#)
+| 성과 | 프로젝트 | 역할 |
+|---|---|---|
+| 🥉 **3위** `상금 50만원` | [아이봄](#) — 어린이 통학로 위험도 등급화 지도<br>공공데이터 활용 경진대회 `2026` | 기획 · 백엔드 |
+| 🏆 **최우수상** | [GapZero](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE)<br>호서대학교 AI·SW 해커톤 `2025` | 프론트엔드 |
 
-**[2025] GapZero [호서대학교 중심사업단] 🏆 최우수상**
-- [📂 GitHub Repository](https://github.com/9oormthonUNIV-HOSEO-AISW-HACKATHON/2025_AISW_HOSEOTHON_TEAM_07_FE)
+## 🟢 Currently in Service
 
-**[2025] CCC Web [충북대 CCC 동아리 공식 웹사이트 · 프론트엔드]**
-- [🌐 Live Site](https://cbnuccc.co.kr/)
+| 규모 | 서비스 | 역할 |
+|---|---|---|
+| 👥 **Members 100+** | [CCC Web](https://cbnuccc.co.kr/) — 충북대 CCC 동아리 공식 웹사이트<br>`2025~` | 프론트엔드 |
 
 ## 📫 Contact Me
 
